@@ -1,4 +1,4 @@
-package Food;
+package food;
 
 public interface Pan {
 	//구현강제할 메서드 

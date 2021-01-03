@@ -1,4 +1,4 @@
-package Food;
+package food;
 
 public class ElectPan implements Pan{
 

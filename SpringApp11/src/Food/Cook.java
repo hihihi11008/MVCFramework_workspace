@@ -1,5 +1,5 @@
 /*요리사를 정의한다*/
-package Food;
+package food;
 public class Cook {
 	private Pan pan;
 	//외부로부터 필요한 객체를 주입받기 위한 setter 메서드 
